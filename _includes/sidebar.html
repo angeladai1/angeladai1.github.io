@@ -1,17 +1,18 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
-    <img src="{{ site.baseurl }}public/angela_dai_photo.jpg" alt="Photo of Angela Dai." class="inline"/>
+    <img class="profile-photo" src="{{ '/' | relative_url }}public/angela_dai_photo.jpg" alt="Photo of Angela Dai." class="inline"/>
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ '/' | relative_url }}">
           {{ site.title }}
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
 
+    
     <nav class="sidebar-nav">
-      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a> -->
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/' | relative_url }}public/angela_dai_resume.pdf">Resume</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -29,5 +30,22 @@
 
     </nav>
 
+    <div class="sidebar-social">
+        <a href="https://www.linkedin.com/in/angeladai1/">
+          <img class="social" src="{{ '/' | relative_url }}public/linkedin_logo.png" alt="Add me on LinkedIn!" class="inline"/>
+        </a>
+        <a href="https://github.com/angeladai1">
+          <img class="social" src="{{ '/' | relative_url }}public/github_logo.png" alt="Visit my GitHub profile." class="inline"/>
+        </a>
+        <a href="https://m.me/angeladai1">
+          <img class="social" src="{{ '/' | relative_url }}public/messenger_logo.png" alt="Message me on Facebook!" class="inline"/>
+        </a>
+        <a href="mailto:angeladai1@outlook.com">
+          <img class="social" src="{{ '/' | relative_url }}public/email_logo.png" alt="Email me!" class="inline"/>
+        </a>
+    </div>
+    <div>
+      <p>&copy; {{ site.time | date: '%Y' }}. <a href="https://hyde.getpoole.com/" >Theme: Hyde by @mdo</a></p>
+    </div>
   </div>
 </div>

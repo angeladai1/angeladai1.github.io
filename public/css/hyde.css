@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Calibri", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "Consolas", Courier New, monospace;
   font-size: 3.25rem;
 }
 
@@ -97,6 +97,12 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+.social {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 24px; 
 }
 
 /* Sticky sidebar
