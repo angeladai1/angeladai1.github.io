@@ -2,6 +2,9 @@
 layout: page
 title: About
 ---
+
+![Photo of Angela dai](angela_dai_photo.jpg)
+
 ### Background
 
 I was born in Guangzhou, China and immigrated to Canada with my family when I was 4. I went to 7 different schools during my K-12 years in Vancouver, Burnaby and Richmond. I now go to UBC and am studying [Business and Computer Science](https://mybcom.sauder.ubc.ca/courses-money-enrolment/program-requirements/combined-major-in%C2%A0business-and-computer-science). I will be graduating in May 2021!
