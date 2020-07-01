@@ -13,6 +13,5 @@ Hello! Welcome to my internet space. I hope you enjoy your stay :)
 
 ### Latest Blog Posts:
 {% for post in site.posts %}
-
 {{ post.date | date_to_string }} » [ {{ post.title }} ]({{ post.url }})
 {% endfor %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The New Jim Crow Book Review
+title: "Book Review: The New Jim Crow"
 ---
 [This book](https://newjimcrow.com/) discusses why **Mass Incarceration** is real, the legal systems that uphold it, and what systemic issues we need to address to not only dismantle mass incarceration, but ensure that we don't create another racial caste system.
 
