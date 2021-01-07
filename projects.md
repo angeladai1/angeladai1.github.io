@@ -3,10 +3,6 @@ layout: page
 title: Projects
 ---
 
-## Data Science
-
-TBD
-
 ## Software Development
 
 ### [SENSE](https://github.com/angeladai1/firesensor)
