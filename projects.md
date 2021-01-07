@@ -13,9 +13,7 @@ For SAP Fall iXp Hackathon, Alice Kim, Irene Chung, Jessica Jiang, and I created
 
 **Media:**
 - [Presentation: Pitch Deck, Business Analysis](https://github.com/angeladai1/firesensor/blob/master/Sense.pdf)
-
 - [Video: Live Website Demo](https://github.com/angeladai1/firesensor/blob/master/dashboard.mov)
-
 - [Video: React Native App Demo](https://github.com/angeladai1/firesensor/blob/master/app.mov)
 
 ### [Flow](https://github.com/flow-git/flow)
